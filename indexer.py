@@ -13,7 +13,7 @@ def index():
     return
   file = sys.argv[1]
   if not os.path.isfile(file):
-    print "File not found! Please enter a valid file name located within the indexer.py folder."
+    print "File not found! Please enter a valid file path to the desired document, with the .docx extension included"
     return
 
   "Reading and processing excluded words..."
