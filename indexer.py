@@ -41,7 +41,7 @@ def index():
     print "Can only process word documents or pdfs! A filetype of " + filetype + " cannot be processed"
     return 
 
-  "Reading and processing excluded words..."
+  print "Reading and processing excluded words..."
   excluded_words = []
   with open('exclude.csv', 'rb') as f:
     excludeFile = csv.reader(f, delimiter=",")
@@ -76,11 +76,11 @@ def index():
       word = word.lower()
       word = word.encode('ascii', 'ignore')
       word = word.translate(string.maketrans("",""), string.punctuation)
-      if not word in excluded_words and word != "":
+      if not word in excluded_words and word != "" and not is_number(word):
         if word in index:
-          index[word].add(pageNum)
+          index[word].add(pageNum+1)
         else:
-          index[word] = set([pageNum])
+          index[word] = set([pageNum+1])
 
   doc.close()
 
@@ -101,6 +101,13 @@ def index():
     os.remove(fileToProcess)
 
   print "Complete!"
+
+def is_number(s):
+  try:
+    float(s)
+    return True
+  except ValueError:
+    return False
 
 if __name__==  "__main__":
   index()
