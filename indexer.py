@@ -1,3 +1,9 @@
+# TODO:
+# Detect doc type, convert to pdf using comtype if docx for reading
+# Use pypdf2 to grab words by page
+# Rewrite construction algorithm to work with new format (scrap article delimiter approach)
+# Prettify output (in word doc?)
+
 import sys
 import docx
 import os
