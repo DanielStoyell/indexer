@@ -4,6 +4,8 @@ import os
 import csv
 import string
 
+ARTICLE_DELIMITER = "ARTICLEDELIMITER"
+
 def index():
   print "Parsing input..."
   if len(sys.argv) == 1:
@@ -24,33 +26,42 @@ def index():
   # gotta get dat constant lookup time
   excluded_words = set(excluded_words)
 
-  print "Reading document..."
+  print "Reading and processing document..."
   doc = docx.Document(file)
   paragraphs = doc.paragraphs
+
+  words = []
+  for p in paragraphs:
+    p_words = p.text.split()
+    words += p_words
 
   print "Constructing index..."
   progress = -1
   index = {}
-  for i in range(len(paragraphs)):
-    percentComplete = float(i)/len(paragraphs)
+  article = 0
+  for i in xrange(len(words)):
+    percentComplete = float(i)/len(words)
     percentComplete = int(round(percentComplete*10))*10
     if percentComplete > progress:
       print str(int(percentComplete)) + "%"
       progress = percentComplete
 
-    text = paragraphs[i].text
-    words = text.split()
+    word = words[i]
+    word = word.strip() #Remove trailing whitespcae
+    word = word.encode('ascii', 'ignore') #Strip Word Unicode bullshit
+    word = word.translate(string.maketrans("",""), string.punctuation) #strip punctuation
 
-    for word in words:
-      word = word.strip() #Remove trailing whitespcae
-      word = word.encode('ascii', 'ignore') #Strip Word bullshit
-      word = word.lower() #Make lowercase
-      word = word.translate(string.maketrans("",""), string.punctuation) #strip punctuation
-      if word not in excluded_words:
-        if word in index:
-          index[word].add(i)
-        else:
-          index[word] = set([i])
+    if word == ARTICLE_DELIMITER:
+      article += 1
+    else:
+      if article > 0:
+        word = word.lower() #Make lowercase
+        if word not in excluded_words:
+          if word in index:
+            index[word].add(article)
+          else:
+            index[word] = set([article])
+        
 
   print "Writing to output file..."
   sortedKeys = index.keys()
