@@ -5,22 +5,41 @@
 # Prettify output (in word doc?)
 
 import sys
-import docx
+import comtypes.client
+import PyPDF2
 import os
 import csv
 import string
 
-ARTICLE_DELIMITER = "ARTICLEDELIMITER"
-
 def index():
   print "Parsing input..."
   if len(sys.argv) == 1:
-    print "Please enter a file to index like so: 'python indexer.py <filename.docx>'"
+    print "Please enter a file to index like so: 'python indexer.py <filename.docx OR filename.pdf>'"
     return
   file = sys.argv[1]
   if not os.path.isfile(file):
     print "File not found! Please enter a valid file path to the desired document, with the .docx extension included"
     return
+
+  filename, filetype = os.path.splitext(file)
+  pdfIsTemp = False
+  if (filetype == ".pdf"):
+    fileToProcess = file
+  elif filetype == ".docx":
+    print "Creating temporary pdf for processing..."
+    word = comtypes.client.CreateObject('Word.Application')
+    doc = word.Documents.Open(os.path.abspath(file))
+    doc.SaveAs(os.path.abspath(filename + ".pdf"), FileFormat=17)
+    doc.Close()
+    word.Quit()
+    fileToProcess = filename + ".pdf"
+    pdfIsTemp = True
+  elif filetype == ".doc":
+    print ".doc to .pdf conversion is untested. Please convert your Word Document to .docx and try again"
+    return
+  else:
+    print "Can only process word documents or pdfs! A filetype of " + filetype + " cannot be processed"
+    return 
 
   "Reading and processing excluded words..."
   excluded_words = []
@@ -32,47 +51,43 @@ def index():
   # gotta get dat constant lookup time
   excluded_words = set(excluded_words)
 
-  print "Reading and processing document..."
-  doc = docx.Document(file)
-  paragraphs = doc.paragraphs
-
-  words = []
-  for p in paragraphs:
-    p_words = p.text.split()
-    words += p_words
+  print "Opening PDF and preparing to process..."
+  doc = open(fileToProcess, 'rb')
+  reader = PyPDF2.PdfFileReader(doc)
+  pages = reader.numPages
 
   print "Constructing index..."
-  progress = -1
+
   index = {}
-  article = 0
-  for i in xrange(len(words)):
-    percentComplete = float(i)/len(words)
-    percentComplete = int(round(percentComplete*10))*10
+
+  progress = 0
+  for pageNum in xrange(pages):
+    percentComplete = round((float(pageNum)/pages)*10)*10
     if percentComplete > progress:
-      print str(int(percentComplete)) + "%"
+      print str(percentComplete) + "%"
       progress = percentComplete
 
-    word = words[i]
-    word = word.strip() #Remove trailing whitespcae
-    word = word.encode('ascii', 'ignore') #Strip Word Unicode bullshit
-    word = word.translate(string.maketrans("",""), string.punctuation) #strip punctuation
+    page = reader.getPage(pageNum)
+    text = page.extractText()
+    words = text.split()
 
-    if word == ARTICLE_DELIMITER:
-      article += 1
-    else:
-      if article > 0:
-        word = word.lower() #Make lowercase
-        if word not in excluded_words:
-          if word in index:
-            index[word].add(article)
-          else:
-            index[word] = set([article])
-        
+    for word in words:
+      word = word.strip()
+      word = word.lower()
+      word = word.encode('ascii', 'ignore')
+      word = word.translate(string.maketrans("",""), string.punctuation)
+      if not word in excluded_words and word != "":
+        if word in index:
+          index[word].add(pageNum)
+        else:
+          index[word] = set([pageNum])
+
+  doc.close()
 
   print "Writing to output file..."
   sortedKeys = index.keys()
   sortedKeys.sort()
-  indexName = file[:-5] + "_index.txt"
+  indexName = filename + "_index.txt"
   with open(indexName, 'wb') as iFile:
     for key in sortedKeys:
       string_rep = key + ": "
@@ -80,6 +95,10 @@ def index():
         string_rep += str(p) + ", "
       string_rep = string_rep[:-2]
       iFile.write(string_rep + "\n")
+
+  if pdfIsTemp:
+    print "Deleting temporary pdf..."
+    os.remove(fileToProcess)
 
   print "Complete!"
 

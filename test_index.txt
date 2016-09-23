@@ -1,1668 +1,1753 @@
-: 1, 2, 3
-10990: 2
-11564: 2
-1488: 2
-150700: 1
-17810: 2
-187: 2
-188: 3
-1928: 3
+10990: 15
+1126: 20
+11564: 15
+120000: 4
+135: 1
+1488: 17
+150700: 5
+17810: 15
+182: 14
+187: 14
+188: 24
+1928: 22
 1948: 1
 1950s: 1
-1959: 3
-1960s: 3
-1961: 3
-196162: 3
-1962: 3
-1970s: 1
-1980: 3
-1982: 1, 3
-1989: 1
-1990s: 1
-1991: 2
-1992: 3
-1993: 2
-1997: 2
-1998: 3
-19982000: 2
-200: 2
-2001: 2, 3
-2002: 2
-2003: 3
-2007: 3
-2008: 1, 3
-2009: 2, 3
-2010: 1, 2
-2011: 2, 3
-2012: 1, 2, 3
-2013: 1, 2, 3
-2014: 1, 2, 3
-2015: 1, 2, 3
-2016: 1, 2, 3
-2017: 1
-214: 2
-2692: 2
-280: 1
-63: 3
-66: 3
-7230: 2
-7455: 2
-8600: 3
-90: 2
-97: 3
-9965: 2
-abandoned: 1
-abated: 1
-able: 1
-abroad: 3
-absence: 2
-abuses: 2
-accepted: 1
-access: 1, 2, 3
-accompanying: 3
-accord: 2
-according: 1, 2, 3
-account: 1
-accused: 1
-across: 1
-acting: 2
-action: 2
-activists: 3
-activities: 1
-ad: 1
-addition: 3
-additional: 1
-address: 1
-adjustments: 3
-administration: 2
-administrations: 3
-admissions: 2
-admitted: 1, 2
-adults: 2
-adversaries: 2
-advisor: 1
-advisory: 1
-advocacy: 1, 2
-advocate: 1
-affairs: 1, 3
-affiliates: 2
-afloat: 2
-afoul: 2
-africa: 2
-africas: 2
-afwerki: 2
-against: 1, 2
-agencies: 2
-agency: 2, 3
-aging: 3
-agreed: 1, 3
-agreement: 2, 3
-agricultural: 3
-agriculture: 3
-ahead: 3
-aid: 1, 2
-airlines: 3
-alan: 3
-albinlackey: 2
-algiers: 2
-alienating: 3
-allay: 2
-allegations: 2
-alleged: 1, 2, 3
-alleging: 2
-allow: 2, 3
-allowed: 3
-allowing: 3
-along: 2
-already: 1
-alshabab: 2
-although: 1
-amandi: 3
-ambassador: 3
-ambivalent: 2
-america: 3
-american: 3
-americans: 3
-americas: 3
-amid: 1, 3
-amnesty: 1
-among: 1, 2, 3
-amounting: 1
-analysts: 1, 3
-annan: 1
-announced: 3
-announcement: 3
-another: 2, 3
-anticipating: 2
-antigovernment: 2
-antirohingya: 1
-anything: 1
-apparent: 2
-appeal: 1
-appeared: 3
-applications: 2
-appropriate: 2
-approval: 3
-approved: 3
-april: 1, 3
-arakan: 1
-arbitrary: 2
-area: 3
-argue: 1, 3
-argues: 1
-arguing: 3
-arms: 2
-around: 2, 3
-arrange: 3
-arrest: 2
-arrested: 3
-arrivals: 2
-arrive: 1
-arrived: 1, 2
-arturo: 3
-asean: 1
-asia: 1
-asiabased: 1
-asian: 1
-assembly: 2, 3
+1959: 19
+1960s: 18
+1961: 18, 19, 20
+1962: 19
+1970s: 0
+1980: 21
+1982: 2, 20
+1990s: 2
+1991: 11
+1992: 20
+1993: 11
+1996: 20
+1997: 12
+1998: 20, 12
+200: 17
+2000: 12
+2001: 20, 12
+2002: 13
+2007: 26
+2008: 25
+2009: 25, 20, 13
+2010: 2, 14
+2011: 21, 14
+2012: 4, 13, 21
+2013: 24, 25, 14, 6, 21
+2014: 2, 5, 6, 12, 14, 18, 21, 24, 25
+2015: 2, 5, 6, 7, 15, 16, 17, 18, 21, 22, 23, 24
+2016: 0, 4, 5, 6, 7, 8, 10, 12, 15, 18, 22, 23, 26
+2017: 7
+2018: 20
+214: 17
+2692: 15
+280: 4
+62: 19, 20
+63: 24
+66: 24
+7230: 15
+73: 14
+74: 24
+7455: 15
+78: 3
+8600: 21
+90: 5, 15
+97: 24
+992: 21
+9965: 15
+abandone: 6
+abandoned: 5
+abated: 5
+abc: 24
+able: 2
+abroad: 25, 21
+abuses: 17
+acceleration: 26
+access: 25, 2, 20, 5, 14
+accompanying: 22
+accord: 12
+accordin: 4
+according: 1, 3, 5, 11, 12, 21
+accused: 4
+ach: 14
+across: 5
+activists: 26, 21
+activities: 6
+ad: 6
+addition: 22
+additional: 5
+address: 8, 5, 22, 7
+adjustments: 20
+administration: 17
+administrations: 18
+admissions: 17
+admitted: 17
+adults: 13
+adversaries: 17
+advisor: 8, 5
+advisory: 7
+advocacy: 8, 1, 16
+advocate: 7
+affairs: 26, 7
+affiliated: 14
+affiliates: 14
+afloat: 14
+afoul: 12
+africa: 18
+afwerki: 11
+against: 3, 4
+agencies: 15
+agency: 17, 20, 15
+aging: 25
+agreed: 19, 22, 6
+agreement: 19, 12, 22
+agricultural: 25, 26, 20
+agriculture: 26
+ahead: 23
+aid: 8, 16, 17
+airlines: 23
+al: 13
+alan: 20
+albert: 0
+algiers: 12
+alienating: 21
+allay: 18
+allegations: 12, 14
+alleged: 20, 13, 6
+alleging: 14
+allow: 18, 20
+allowed: 2, 20
+allowing: 19, 23
+along: 15
+already: 2
+although: 2, 6
+amandi: 24
+ambassador: 22
+ambivalent: 14
+america: 24, 19, 21
+american: 25, 19, 21, 23
+americans: 24
+americas: 25, 18
+amid: 25, 6
+among: 23, 11, 4, 15
+amounted: 20
+amounting: 4
+analysts: 7
+annan: 6, 7
+announced: 18, 21
+announcement: 24, 25, 21
+annual: 21
+another: 16, 20, 21, 15
+anti: 2, 4
+anticipating: 17
+antigovernment: 13
+anything: 7
+anytime: 23
+apparent: 17
+appeal: 8
+appeared: 20
+applications: 15
+approval: 19
+approved: 24
+april: 18
+arakan: 0, 1, 8
+arbitrary: 12
+area: 21
+argue: 8, 26
+argues: 8
+arguing: 25, 23
+arms: 13
+around: 26, 19, 14
+arrange: 20
+arrest: 12
+arrested: 20
+arrivals: 15
+arrive: 6
+arrived: 0, 11, 5, 22
+articledelimiter: 0, 9, 18
+arturo: 21
+arty: 11
+ary: 2
+asean: 8, 3, 7
+asia: 8, 6, 7
+asian: 3
+assembly: 24, 12
 asserts: 1
-asset: 2, 3
-assigned: 3
-assigning: 1
-assist: 1
-association: 1
-asylum: 1, 2
-asylumseekers: 1, 2
-attempt: 3
-attempting: 3
-attention: 2
-attitudes: 3
-audience: 3
-august: 1, 2, 3
-aung: 1
-austin: 3
-author: 1, 2
-authoritarianism: 2
-authorities: 1, 2, 3
-authority: 2, 3
-authorized: 3
-authors: 3
-avoidance: 2
-away: 2, 3
-b: 3
-backed: 2
-background: 3
-backgrounder: 2
-backing: 2, 3
-ban: 3
-bangkok: 1
-bangladesh: 1
-bank: 1
-banking: 3
-banks: 3
-bans: 2
-barack: 3
-base: 3
-basic: 3
-basis: 2
-batista: 3
-bay: 1
-beatings: 3
-became: 2, 3
-because: 1, 2
-become: 2, 3
-becoming: 1
-began: 1, 3
-begin: 2
-beginning: 3
-behavior: 2
-being: 1, 2
-believe: 2
-believed: 1, 3
-below: 1
-bendixen: 3
-benefits: 2
-bengal: 1
-bengali: 1
-best: 2
-better: 2, 3
-between: 1, 2, 3
-beyond: 1
-birth: 2
-blame: 1
-bloc: 3
-board: 2
-boat: 1
-boats: 1
-body: 1
-boosted: 3
-border: 2
-botched: 3
-both: 1, 3
-bottom: 1, 2
-bound: 2
-boycott: 1
-brave: 1
-brazil: 3
-brianna: 3
-bringing: 2
+asset: 13, 21
+assigned: 20
+assigning: 8
+assist: 8
+assistance: 6
+association: 3
+asylum: 3, 7, 11, 13, 15, 16, 17
+atte: 15
+attempt: 19
+attempting: 20
+attention: 17, 13
+attitudes: 24
+audience: 23
+august: 16, 23, 7
+aung: 7
+austin: 26
+author: 0, 10
+authoritarianism: 9, 10
+authorities: 20, 12, 6
+authority: 26, 12
+authorized: 23
+authors: 18
+avoidance: 16
+aw: 11
+away: 11, 23
+b: 26
+backed: 19, 2, 11
+background: 19
+backgrounder: 18
+backgrounders: 9
+backing: 24, 11
+backs: 6
+ban: 24, 19
+bang: 6
+bangkok: 6
+bangladesh: 5
+bank: 3
+banking: 26, 22
+banks: 23
+bans: 13
+barack: 18, 20, 21
+base: 19
+based: 8, 1, 16
+basic: 21
+basis: 17
+bassies: 22
+batista: 19
+bay: 19, 5
+beatings: 21
+became: 19, 11, 20
+because: 14
+become: 20, 13
+began: 25, 19
+begin: 18
+beginning: 23
+behavior: 12
+being: 2, 11, 7
+believe: 18
+believed: 5
+below: 3
+bendixen: 24
+benefits: 14
+bengal: 0, 5
+bengali: 1, 2
+better: 18
+between: 3, 5, 13, 17, 18, 20, 22, 23, 24, 25
+beyond: 7
+blame: 8, 5
+bloc: 11, 21
+blogs: 9
+board: 15
+boat: 5, 6
+boats: 6
+body: 7
+boosted: 26
+border: 12, 13
+botched: 19
+both: 2, 20, 21, 23
+bottom: 6
+bound: 15
+boycott: 2
+brave: 5
+brazil: 26
+brianna: 18
+bringing: 11
 british: 1
-broadcast: 3
-broadly: 3
-broke: 1, 2
-brokered: 3
-buddhist: 1
-buddhists: 1
-building: 3
+broadcast: 22
+broke: 11, 4
+brokered: 22
+buddhist: 1, 2, 4, 7
+buddhists: 3
+bui: 19
+building: 0, 23
 burma: 1
-burned: 1
-bush: 3
-bushs: 3
-businesses: 3
-cabinet: 1
-called: 2
-calling: 2
-calvin: 3
-camp: 1
-campaign: 1, 2
-camps: 1, 2
-canada: 2
-canadian: 2
-capacity: 1
-capital: 1
-capitals: 3
-card: 1
-cards: 1, 3
-carried: 1
-cases: 2
-castro: 3
-castros: 3
-caught: 2
-caused: 1
-cautious: 3
-ccdhrn: 3
-cease: 2
-celebrated: 3
-cellular: 3
-census: 1
-central: 1, 3
-centuries: 1
-century: 1
-certain: 3
-cfrs: 3
-change: 1, 2, 3
-characterized: 1, 2
-characterizes: 2
-chief: 1
-children: 1
-chipped: 3
-choice: 1
-choosing: 1
+burned: 4
+burton: 26, 20, 23
+bush: 20
+businesses: 25, 23
+cabinet: 7
+cal: 25
+called: 17, 12, 13
+calling: 15
+calvin: 22
+camp: 4
+campaign: 12
+campaigns: 3
+camps: 4, 5, 6, 15
+canada: 14
+canadian: 14
+cancelled: 2
+candidate: 2
+capacity: 8
+capital: 7
+capitals: 22
+card: 2
+cards: 2, 23
+carried: 21
+castr: 19
+castro: 18, 19, 20, 21, 22, 25
+castros: 25, 19, 20
+catalyst: 17
+caught: 15
+caused: 0
+ccdhrn: 21
+ce: 1
+celebrated: 24
+cellular: 20
+census: 2
+central: 8, 2, 21
+centuries: 0, 1
+century: 0
+certain: 25
+cfr: 8, 9
+challenging: 11
+change: 7, 13, 18, 21, 23, 26
+characterized: 12, 6
+characterizes: 13
+chie: 5
+chief: 8, 6
+children: 6
+chipped: 23
+choice: 3
+cholas: 8
+choosing: 5
 chris: 1
-christian: 2
-christopher: 2
-ciabacked: 3
-cited: 2
-cities: 2
-citing: 2
-citizens: 2, 3
-citizenship: 1
-civil: 3
-civilian: 1, 2
-claim: 2
-claiming: 2
-claims: 1, 2
-clapp: 1
-clashes: 2
-classified: 3
-cleansing: 1
-cleavage: 1
-close: 2
-closed: 2
-codified: 2
-coerced: 2
-cold: 3
-collapse: 3
-collect: 2
-collective: 1, 2
-collects: 2
-colluding: 1
-collusion: 2
+christian: 17
+cia: 19
+cite: 0, 18, 11
+cited: 13
+cities: 15
+citing: 11
+citizens: 20, 12
+citizenship: 2
+civil: 25
+civilian: 13, 7
+cl: 3
+claim: 12
+claiming: 15
+claims: 17
+clapp: 8, 5
+clashes: 13
+classified: 22
+close: 13
+closed: 11
+co: 14
+codified: 11
+coerced: 12
+cold: 19
+collapse: 20
+collect: 14
+collective: 1, 11
+collects: 14
+colluding: 6
+collusion: 16
 colonial: 1
-columnist: 1
-commercial: 3
-commission: 2, 3
-commissioner: 1
-commitment: 1
-committee: 1
-common: 1, 2
-commonly: 2
-communal: 1
-communications: 3
-communist: 3
-communities: 1
-community: 1, 3
-companies: 2, 3
-company: 2
-complexities: 1
-complicity: 2
-compounded: 1
-concern: 2, 3
-concerns: 1, 2
-conditions: 1, 2
-conducted: 1, 3
-confirmed: 3
-conflict: 1
-congress: 3
-congressional: 3
-connect: 2
-conscription: 2
-conscripts: 2
-consecutive: 3
-consider: 2
-consideration: 2
-considered: 2
-considers: 2
-consistent: 2
-consists: 1
-consolidate: 1
-constitute: 2
-constitution: 2
-constitutional: 1
-construction: 2
-consular: 2
-consulates: 2
-consumer: 3
-contentious: 3
-continue: 1, 3
-continued: 2, 3
-continues: 3
-continuing: 1
-contract: 2
-contracted: 2
-contractors: 2
-contribute: 2
-control: 1, 2, 3
-controlled: 2
-convened: 2
-convention: 1
-convicted: 3
-coolidge: 3
-coordinated: 1
-copy: 3
-cordial: 3
-council: 2
-councils: 2
-countries: 1, 2, 3
-country: 1, 2, 3
-countrys: 1, 2, 3
-countrywide: 1
-court: 2
-courtesy: 3
-cover: 3
-covert: 3
-crackdown: 1
-create: 3
-creation: 1
-credit: 3
-crimes: 2
-criminal: 2
-crisis: 1, 2
-criticize: 3
-critics: 1
-cross: 2
-cuba: 3
-cuban: 3
-cubanamerican: 3
-cubans: 3
-cubaparticularly: 3
-cubas: 3
-cultivate: 1
-culture: 2
-cut: 1
-dangerous: 1, 2
-darrin: 2
-date: 1
-debit: 3
-debris: 1
-debt: 3
-decades: 1
-december: 2, 3
-decentralizing: 3
-decided: 1
-decision: 3
-deepened: 1
-deepening: 1
-deeply: 3
-deliver: 3
-demanded: 3
-demarcated: 2
-democracy: 1, 2, 3
-democratic: 1, 2, 3
-democrats: 3
-denied: 1, 2
-denominations: 2
-denounced: 2, 3
-denying: 2
-department: 1, 3
-departments: 3
-deprived: 2
-derivation: 1
-describe: 2
-described: 1
-desert: 2
-deserting: 2
-designated: 2
-designation: 2, 3
-despite: 1, 3
-destabilization: 1
-destabilize: 3
-destination: 1
-destroyed: 1
-destruction: 3
-detained: 1
-detention: 1, 2
-detentions: 3
-developed: 1
-development: 1, 2, 3
-developments: 3
-dialect: 1
-diaspora: 2
-differences: 1
-difficult: 1
-diplomacy: 3
-diplomatic: 3
-direct: 3
-directed: 1
+columnist: 8
+commercial: 23
+commission: 7, 11, 12, 13, 14, 15, 21
+commissioner: 5
+committee: 7
+common: 13, 6
+commonly: 13
+communal: 7
+communications: 20
+communist: 19
+communities: 7
+community: 8, 20, 21
+companies: 20, 23
+company: 14
+complicity: 14
+compounded: 0
+concern: 21, 14
+concerns: 13, 6
+concluded: 17
+condemning: 24
+conditions: 17, 11, 12, 5
+conducted: 24
+conferred: 2
+confirmed: 22
+conflict: 3
+congress: 17, 26, 23
+congressional: 19
+connect: 9
+conscriptio: 17
+conscription: 13
+conscripts: 13
+consecutive: 24
+consider: 12
+considered: 11
+considers: 12
+consistent: 11
+consists: 8
+constitute: 16
+constitution: 12
+constitutional: 2
+construction: 14
+consular: 14
+consulates: 14
+consumer: 25
+contentious: 20
+continue: 8, 26, 21
+continued: 20, 13, 23
+continues: 21
+continuing: 6
+contract: 14
+contractors: 14
+contribute: 14
+control: 1, 23, 12, 17
+controlled: 25, 12
+convened: 12
+convention: 7
+convicted: 20
+coolidge: 22
+coordinated: 7
+copy: 18
+council: 9, 12, 13
+countr: 11
+countri: 17
+countrie: 7
+countries: 24, 18, 20, 14, 15
+country: 5, 6, 8, 11, 12, 13, 14, 17, 20, 21, 25
+countrys: 16, 25, 11, 14
+court: 12
+courtesy: 18
+cover: 23
+covert: 19
+crackdown: 6
+create: 26
+creation: 7
+credit: 23
+crimes: 4
+criminal: 12
+crisis: 0, 2, 5, 6, 7, 8, 9, 10, 11, 14, 19
+criticize: 21
+critics: 7
+cross: 16
+cuba: 18, 19, 20, 21, 22, 23, 24, 25, 26
+cuban: 18, 19, 20, 21, 22, 23, 24, 25
+cubans: 25, 23
+cubas: 25, 20, 23
+culture: 11
+cut: 5
+cy: 24
+d: 23, 6, 7
+dangerous: 11, 5
+daniel: 18
+darrin: 10
+date: 8
+ddhist: 0
+dead: 15
+debit: 23
+debris: 4
+debt: 25
+decades: 11, 7
+december: 24, 17, 18, 21
+decentralizing: 25
+decided: 2
+declining: 13
+deepened: 3
+deepening: 7
+deeply: 24
+deliver: 20
+demanded: 19
+demarcated: 12
+democracy: 20, 7
+democratic: 20, 12, 7
+democrats: 21
+denied: 14
+denominations: 17
+denounced: 17, 23
+denying: 14
+department: 20, 6
+departments: 21
+describe: 11
+described: 4
+desert: 15
+deserting: 14
+designa: 20
+designated: 13
+designation: 24, 17
+designations: 17
+despite: 1, 2, 19
+destabilize: 20
+destination: 6
+destroyed: 4
+destruction: 19
+detained: 6
+detention: 6
+detentions: 26, 21
+developme: 14
+development: 6, 8, 12, 13, 14, 20
+developments: 25
+diaspora: 11, 14
+differences: 3
+difficult: 2
+dip: 24
+diplomacy: 20
+diplomatic: 18, 19, 20, 21, 22, 24
+dire: 5
+direct: 25
+directed: 6
 director: 1
-disappearances: 2
-discovered: 3
-discovery: 1
-discrimination: 1
-discriminatory: 1
-discuss: 1
-dismantled: 3
-displaced: 1
-displacing: 1
-disputed: 1
-dissent: 2
-dissidents: 3
-diversity: 1
-dnj: 3
-documentation: 1
-documents: 2
-domestic: 2, 3
-dominant: 1
-done: 1
-downgraded: 1
-downturn: 3
-draft: 2
-draw: 2
-driving: 1
-dtente: 3
-due: 3
-during: 1, 2, 3
-dynamic: 3
-earlier: 3
-early: 1, 3
-earning: 2
-ease: 3
-eased: 3
-easier: 3
-easing: 1, 2
-economic: 1, 2, 3
-economically: 2
-economics: 3
-economy: 3
-editors: 2
-editorwriter: 3
-education: 1
-educational: 2, 3
-effect: 2
-effectively: 1, 3
-effort: 1
-efforts: 1
-egypt: 2
-eighteen: 2, 3
-eightyeight: 1
-eightyfive: 3
-election: 1
-elections: 1, 2, 3
-embargo: 2, 3
-embassies: 3
-embodied: 2
-embrace: 1
-employment: 1, 2
-enacted: 3
-encouraged: 3
-ended: 2, 3
-ending: 2, 3
-ends: 1
-enforce: 3
-engagement: 3
-entails: 2
-entrenched: 2
-entrenching: 2
-eplf: 2
-equipment: 3
-equity: 1
-equitykofi: 1
-eritrea: 2
-eritrean: 2
-eritreanearly: 2
-eritreans: 2
-eritreas: 2
-erupted: 1
-escalating: 3
-escape: 1
-established: 1, 2
-estimate: 3
-estimated: 1
-estimates: 1, 3
-ethiopia: 2
-ethiopian: 2
-ethiopias: 2
-ethnic: 1
-ethnically: 1
+disappearances: 12
+discovered: 19
+discovery: 6
+discrimi: 3
+discriminatory: 0
+discuss: 7
+disenfranchisement: 2
+dismantled: 19
+displaced: 4
+displacing: 4
+dissent: 11
+dissidents: 25, 22, 23
+dly: 19
+dmitted: 6
+documentation: 2
+documents: 14
+domestic: 24, 18, 12, 21
+done: 8, 5, 7
+downgraded: 6
+downturn: 25
+draft: 12
+driving: 5
+dtente: 21, 23
+due: 26
+during: 0, 20, 6, 15
+dynamic: 26
+e: 17, 12, 14, 7
+earlier: 21
+early: 0, 22
+earning: 13
+ease: 22
+eased: 23
+easie: 25
+easing: 6
+eavage: 3
+economic: 8, 12, 14, 18, 19, 20, 23, 25, 26
+economics: 18
+economy: 25
+editorwriter: 18
+education: 3, 5
+educational: 20, 15
+effect: 13
+effectively: 2, 22
+effort: 8
+efugee: 5
+egypt: 16
+eight: 5
+eighteen: 13, 22
+eighty: 18, 5
+eive: 15
+eleanor: 0
+elecommunications: 26
+election: 7
+elections: 20, 2, 12, 21, 7
+em: 22
+email: 0, 10, 18
+embargo: 13, 19, 20, 23, 24, 26
+embodied: 11
+embrace: 7
+emergency: 6
+employed: 25
+employment: 3, 15
+emptying: 11
+enacted: 23
+encouraged: 22
+ended: 19, 12
+ending: 24, 18
+ends: 8
+enforce: 26
+engagement: 25, 20
+entrenching: 13
+eplf: 11
+equipment: 20
+era: 25
+eri: 12
+eritrea: 9, 10, 11, 12, 13, 14, 17, 18
+eritrean: 11, 12, 13, 14, 15, 17
+eritreans: 16, 17, 11, 14
+eritreas: 18, 11, 14
+ernational: 2
+errilla: 11
+erupted: 3
+es: 17
+escalating: 19
+established: 12, 7
+estate: 25
+estern: 4
+estimate: 25
+estimated: 0
+estimates: 3, 20, 5
+estment: 8
+ethiopia: 18, 11, 12, 13, 15
+ethiopian: 12, 13, 15
+ethnic: 0, 1, 3, 8, 7
+ethnically: 0
 etymological: 1
-eu: 2
-europe: 2
-european: 2
-europes: 2
-euros: 2
-evangelical: 2
-events: 3
-eventually: 3
-ever: 2
-evidence: 3
-exacerbate: 1
-example: 2
-exception: 2
-exchange: 3
-excludes: 3
-executions: 2
-executive: 3
-exert: 1
-exile: 3
-exodus: 2
-expanded: 3
-expanding: 3
-expected: 1
-experts: 1, 2, 3
-exploitation: 1
-export: 3
-exports: 2, 3
-expressed: 1
-extended: 2
-external: 2
-extortion: 2
-extrajudicial: 2
-extraordinary: 2
-extreme: 1
-f: 3
-face: 1, 2
-faces: 2
-facilitate: 3
-facing: 3
+eu: 17, 15
+europe: 18, 15
+european: 11
+europes: 11
+euros: 17
+events: 9, 19, 20
+eventually: 26
+ever: 12
+evidence: 21
+exacerbate: 3
+exception: 12
+exchange: 21
+excludes: 20
+exclusion: 2
+executions: 12
+executive: 26
+exert: 8
+exile: 21
+expanded: 26, 19
+expanding: 25
+expected: 7
+experts: 1, 6, 8, 9, 12, 13, 18, 23, 25, 26
+exploitation: 6
+export: 26, 20
+exports: 19, 14
+expressed: 6
+extended: 13
+external: 11, 12
+extortion: 16
+extractive: 14
+extrajudicia: 12
+extraordinary: 12
+extreme: 5
+f: 19, 5, 22
+fac: 12
+face: 16, 17
+faces: 12, 14
+facie: 17
+facilitate: 23
+facing: 25
 fact: 1
-factor: 2
-fair: 1, 3
-fairness: 1
-faith: 1
-fall: 2
-fallen: 1
-families: 1, 2
-family: 1, 2
-fan: 1
-fate: 1
-favor: 3
-fear: 1
-feared: 3
-february: 1
-feel: 1
-feeling: 2
-felix: 2
-few: 2
-fidel: 3
-fielded: 2
-fifteen: 3
-fifteenth: 1
-fifthlargest: 3
-fifty: 3
-fiftythree: 3
-figures: 3
-final: 1
-finding: 2
-fire: 1
-firm: 2, 3
-five: 2, 3
-flashpoint: 1
-fled: 1, 2
-flee: 1, 2
-fleeing: 1, 2
-florida: 3
-floridas: 3
-flow: 1
-followed: 3
-following: 2, 3
-foot: 1
-footing: 2
-forced: 1, 2, 3
-foreign: 2, 3
-former: 1
-fortify: 1
-forty: 1
-foster: 2
-fostered: 2
-four: 3
-fourteenday: 3
-francis: 3
-fraud: 2
-free: 1, 3
-freedom: 1
-freedoms: 3
-freezes: 2
-front: 2
-fueled: 3
-fulgencio: 3
-full: 1, 2, 3
-further: 1, 3
-future: 1, 2, 3
-fy: 2
-ga: 1
-gain: 3
-gained: 1
-game: 1
-gave: 3
-general: 1, 2, 3
-generational: 3
-george: 3
-germany: 2
-given: 2
-glimmer: 1
-global: 1, 2, 3
-goes: 2
-goods: 3
-governance: 2
-governed: 1, 2
-government: 1, 2, 3
-governmentled: 1
+factor: 13
+fair: 2, 20
+fall: 15
+fallen: 5
+families: 5, 14
+family: 3, 20, 14
+fan: 8
+fastest: 11
+fate: 7
+favor: 24
+fear: 0, 12
+feared: 21
+february: 2
+feel: 0
+felix: 17
+few: 14, 15
+fidel: 19, 20
+fielded: 15
+fifteen: 20
+fifteenth: 0
+fifties: 13
+fifty: 20, 21, 22, 23
+figures: 25
+final: 7
+finding: 13
+findings: 12
+fire: 4
+firm: 24, 14
+five: 11, 14, 17, 18, 20, 21
+fl: 23
+fled: 0, 11, 13, 14
+flee: 0, 15
+fleeing: 17, 3, 5, 14, 13
+florida: 24, 21
+floridas: 21
+followed: 21
+following: 19, 20, 13, 21
+foot: 6
+footing: 18
+forced: 4, 11, 12, 14, 17, 21
+foreign: 9, 12, 14, 21, 25, 26
+forged: 11
+former: 0, 8, 5, 6, 7
+fortify: 8, 4
+forty: 4
+forward: 12
+foster: 13
+four: 18
+fourteen: 19
+frameworks: 7
+free: 2, 20
+freedo: 25
+freedom: 3
+freezes: 13
+front: 11
+fueled: 19
+fulgencio: 19
+full: 2, 19, 21, 22, 15
+fundamental: 7
+further: 26, 20, 22
+future: 26, 7
+fy: 17
+g: 3, 4
+gain: 26
+gained: 2
+gave: 18
+general: 2, 6, 7, 12, 24, 25
+generational: 24
+george: 20
+germany: 15
+gh: 14
+glimmer: 7
+global: 8, 24, 18, 25
+goes: 16
+goods: 25
+governance: 12
+governed: 1, 11
+government: 0, 2, 3, 6, 7, 8, 14, 17, 19, 20, 21, 23, 25
 governments: 1
-grant: 1
-graphic: 3
-graves: 1
-greater: 3
-gross: 3
-grounds: 3
-group: 1, 2, 3
-groups: 1, 2, 3
-growing: 1
-guards: 2
-guerrilla: 2
-gya: 1
-half: 1, 2
-handling: 1
-hands: 2, 3
-happen: 3
-hardship: 3
-harris: 3
-harsh: 2
-havana: 3
-havanas: 3
-having: 1
-health: 3
-healthcare: 1
-heavy: 2, 3
-height: 1
-heightened: 2
-held: 1, 2
-helmsburton: 3
-hemispheric: 3
-heroes: 3
-highprofile: 3
-hiked: 3
-historical: 1, 3
-hoc: 1
-holders: 1
-holdover: 2
-holds: 3
-homes: 1
-honest: 3
-hope: 1, 3
-hopes: 2
-horne: 2
-hostility: 2
-house: 3
-housed: 1
-households: 1
-however: 1, 3
-hub: 1
-human: 1, 2, 3
-humane: 1
-humanitarian: 1, 2, 3
-humanity: 2
-hundred: 1
-hundreds: 1
-id: 1
-identification: 1
-identified: 1
+grant: 2, 15
+graphic: 22
+graves: 6
+greater: 20
+gross: 20, 22
+grou: 0, 1
+grounds: 22
+group: 1, 2, 3, 4, 8, 11, 14, 16, 19
+groups: 0, 1, 2, 4, 8, 12, 13, 21, 25
+growing: 7
+gu: 11
+guerri: 11
+guerrilla: 11
+half: 11, 5
+halt: 6
+handling: 0
+hands: 16, 18
+happen: 26, 23
+hardship: 25
+harris: 26
+harsh: 12
+hat: 6
+havana: 19, 20, 21, 22
+havanas: 18
+having: 6
+health: 23
+healthcare: 5
+heavy: 25, 14
+height: 6
+heightened: 11
+held: 2, 12
+helms: 26, 20, 23
+hemispheric: 25
+heroes: 20
+highest: 3
+hiked: 19
+historical: 19
+hoc: 6
+holders: 2
+holdover: 11
+holds: 20
+homes: 4
+hope: 25, 7
+hopes: 18
+horne: 17
+hostility: 13
+hosts: 5
+hotline: 16
+house: 22
+housed: 4
+households: 3
+however: 19, 5, 21
+hub: 6
+human: 3, 4, 6, 8, 11, 12, 13, 14, 16, 17, 21, 23, 25
+humane: 8
+humanitarian: 8, 22, 5, 6, 15
+humanity: 4
+hundred: 5
+hundreds: 0
+id: 2
+identification: 2
+identified: 1, 2, 6
 identifying: 1
-identity: 1, 2
-ideology: 3
-ids: 1
+identity: 1, 13
+ideology: 19
+ids: 2
+ies: 11
 illegal: 1
-illegally: 2
-illicit: 2
+illegally: 12
+im: 17
 immigrants: 1
-immigration: 1
-implemented: 2
-important: 3
-imports: 3
-imposed: 3
-impoverished: 1
-imprisoned: 3
-improve: 3
-incapable: 1
-include: 1, 2
-included: 3
-including: 1, 2, 3
-inclusion: 3
-income: 2
-increased: 3
-indefinite: 2
-independence: 1, 2
+immigration: 6
+implemented: 12
+important: 21
+imports: 19
+imposed: 19
+imprisoned: 21
+improve: 25, 23
+inc: 15
+incapable: 0
+include: 13, 7
+included: 25, 19
+includin: 3
+including: 25, 26, 12, 5, 23
+income: 14
+increased: 25, 19
+indefinite: 13, 15
+independence: 1, 11
 india: 1
-indicates: 3
-individuals: 2, 3
-indonesia: 1
-indonesias: 1
-industries: 3
-infiltrators: 2
-influenced: 3
-influx: 1
-informants: 2
-information: 2
-infrastructure: 1
-initial: 1
-initially: 1, 2, 3
-inquiry: 2
-inside: 2, 3
-instances: 1
-instead: 2, 3
-institute: 1
-instituted: 3
-institution: 2
-institutionalized: 1
-insulza: 3
-insurance: 3
-insurgents: 3
-intelligence: 3
-intended: 1
-interest: 2
-interior: 2
-internal: 1, 2
-internally: 1
-international: 1, 2, 3
-internationals: 1
-internet: 3
-internment: 1
-into: 1, 2, 3
-introduced: 1
-introduction: 1, 3
-invade: 3
-invest: 2, 3
-investment: 1, 2, 3
-iom: 1
-isaias: 2
-islam: 1
-islamist: 2
-island: 3
-isolation: 2, 3
-israel: 2
-israelbased: 2
-israelopposing: 3
-issue: 3
-issues: 2
-issuing: 1
-italy: 2
-its: 1, 2, 3
-itself: 1
-jailed: 3
-january: 1, 3
-jennifer: 3
-jewish: 3
-joe: 1
-john: 3
-johnson: 3
-jose: 3
-journal: 2
-journey: 1, 2
-journeys: 2
-julia: 3
-july: 3
-june: 1, 3
-junta: 1
-justice: 1, 2
-justified: 2
-kate: 1
-keep: 2
-kennedy: 3
-killed: 2
-killing: 1
-kingdom: 1
-known: 1
-kofi: 1
-kristof: 1
-kyi: 1
-kyis: 1
-label: 1
-labor: 2
-lack: 1, 2
+indicates: 24
+individuals: 23, 12, 13, 21
+indonesia: 0, 6, 7
+industries: 26
+industry: 14
+infl: 21
+inflected: 0
+influx: 0, 6
+informants: 12
+information: 15
+infrastructure: 3, 14
+initial: 6
+initially: 2, 18
+inquiry: 12, 13
+inside: 26, 11
+instances: 2
+instead: 25, 12
+institute: 8, 5
+instituted: 19
+institution: 13
+institutionalized: 3
+insulza: 25
+insurance: 23
+insurgents: 21
+int: 11
+intelligence: 20, 21
+interest: 11
+interior: 16
+internal: 12, 7
+internally: 4
+international: 2, 5, 6, 8, 11, 12, 14, 20, 24
+internet: 20
+internment: 4
+into: 16, 19, 3, 20, 13
+introduced: 2
+introduction: 0, 18
+inv: 8
+invade: 19
+invasion: 19
+invest: 23
+investment: 26, 14
+iom: 5, 6
+isaias: 11
+isla: 24
+islam: 0
+islamist: 13
+island: 24, 19, 20, 22, 23
+isolati: 18
+isolation: 25, 18, 19, 20
+israel: 16, 24
+issue: 20
+issues: 18
+ists: 2
+italy: 15
+ition: 13
+its: 1, 2, 6, 7, 8, 11, 12, 13, 14, 17, 18, 19, 20
+itself: 7
+jailed: 18, 21
+james: 18
+january: 5, 22, 23
+jewish: 20
+joe: 6
+john: 19
+johnson: 26
+jose: 25
+journal: 11
+journey: 5, 15
+journeys: 11
+julia: 26
+july: 22
+june: 24, 5
+junta: 2
+justice: 7
+justified: 13
+ked: 6
+keep: 14
+kennedy: 19
+keynote: 22
+killed: 12, 4
+killing: 4
+kingdom: 0, 1
+known: 1, 2
+kofi: 6, 7
+kristof: 8
+kyi: 7
+l: 20, 11, 12
+labor: 17, 11, 14
+lack: 8, 17, 3, 7
+lackey: 14
+ladesh: 6
 land: 1
-largely: 1, 3
-larger: 2
-late: 1
-latest: 1
-latin: 3
-law: 1, 2
-lawsuit: 2
-lead: 3
-leader: 2
-leaders: 3
-leading: 1, 3
-league: 1, 2
-least: 1, 2
-leave: 2
-leaving: 1, 2
-led: 1
-lee: 3
-legal: 1, 2
-legally: 2
-legislature: 2
-legitimate: 2
-lend: 2
-less: 2
-lewa: 1
-liberalize: 3
-liberalizing: 3
-liberation: 2
-libya: 2
-license: 3
-life: 3
-lift: 3
-lifted: 3
-light: 3
-lilianne: 1
-limited: 1, 2
-linguistically: 1
-linked: 1
-list: 1, 3
-living: 1, 3
-londonbased: 1
-longbuilding: 1
-longer: 1, 3
-longstanding: 1, 2
-loosen: 3
-lopezlevy: 3
-lose: 2
-lowry: 1
-ludicrous: 2
-lupireuters: 2
-lyndon: 3
-maintained: 3
-maintains: 3
-major: 1, 2, 3
-majority: 1, 3
-makes: 1, 3
-making: 1, 2, 3
-malaysia: 1
-malaysias: 1
-manage: 1
-march: 3
-marco: 3
-maritime: 1
-marked: 3
-marking: 3
-marriage: 1
-mass: 1, 2
-materials: 3
-matter: 2
-meaning: 2
-means: 1, 2
-meanwhile: 2
-measure: 2
-measures: 1, 2
-media: 2
-mediation: 1
-medical: 3
-meeting: 3
-member: 1, 3
-members: 1, 2, 3
-membershave: 1
-memberstates: 1
-men: 1, 2
-menendez: 3
-mentality: 2
-methods: 2
-miami: 3
-might: 2
-migrant: 1, 2
-migrants: 1, 2
-migrating: 1
-migration: 1, 2
-migrs: 2
-miguel: 3
-military: 1, 2
-militaryled: 1
-militia: 2
-militias: 2
-million: 1, 2
-mine: 2
-minimal: 1
-mining: 2
-ministers: 1
-ministry: 2
-minorities: 1
-minority: 1
-minors: 2
-misgivings: 3
-misrepresented: 2
-misrepresents: 1
-missile: 3
-missiles: 3
-mission: 1
-missions: 1
-mistrust: 1, 3
-mix: 1
-mobilization: 2
-modest: 1
-money: 3
-monitoring: 2
-monitors: 1, 2
-month: 1, 2
-months: 2, 3
-morning: 3
-motivated: 2
-movement: 1, 2
-moving: 1
-muchneeded: 1
-muslim: 1, 2
-muslims: 1
-myanmar: 1
-myanmars: 1
-named: 3
-national: 1, 2, 3
-nationalism: 3
-nationalists: 1
-nationalized: 3
-nationals: 2
-nations: 1, 2
-naval: 3
-navy: 1
-nearby: 1
-nearly: 1, 3
-necessitated: 2
-neighboring: 2
-neighbors: 1
-netherlands: 2
-networks: 1, 2
-never: 2
-nevertheless: 1
-nevsun: 2
-newly: 1
-news: 3
-nicholas: 1
-nigeria: 2
-nineteenth: 1
-nld: 1
-nonfamily: 3
-noninterference: 1
-nonmilitary: 2
-nonrohingya: 1
-nor: 2
-normalization: 3
-normalizing: 3
-not: 1, 2, 3
-note: 2
-nothing: 2
-noting: 2
-november: 1
-nuclear: 3
-numbers: 1
-obama: 2, 3
-obamas: 3
-observers: 3
-obstacle: 3
-obstacles: 3
-obtain: 3
-obtaining: 3
-occupation: 2
-occupied: 2
-october: 2, 3
-offered: 1, 3
-offers: 1
-office: 3
-officers: 3
-officials: 3
-often: 1, 2
-ofttraveled: 2
+landslide: 7
+largely: 1, 25
+larger: 13
+largest: 26
+late: 0
+latest: 0
+latin: 24, 19
+laub: 10
+launched: 6
+law: 2
+lawsuit: 14
+ld: 19
+le: 18
+lead: 25
+leader: 11
+leaders: 26
+leading: 8, 26, 19
+league: 7
+least: 13
+leave: 11, 20, 14
+leaving: 5, 14
+led: 3, 6, 7
+lee: 18
+legal: 17, 2, 5, 7
+legally: 11
+legislature: 12
+legitimate: 16, 17
+lence: 4
+lend: 13
+less: 13
+levy: 21
+lewa: 1, 2
+liberalize: 25
+liberalizing: 25
+liberation: 11
+libya: 15
+license: 20, 23
+life: 23
+lift: 26, 23
+lifted: 19, 20, 23
+light: 20
+lilianne: 8
+limited: 2, 14
+linguistically: 0
+linked: 8
+list: 21, 6
+living: 0, 3, 23
+ll: 20
+lla: 11
+login: 9
+lomatic: 24
+london: 8
+longer: 8, 26, 5, 21
+loosen: 25
+lopez: 21
+lose: 15
+loss: 20
+lowry: 6
+luding: 15
+lupireuters: 10
+lution: 8
+lyndon: 26
+maintained: 18
+maintains: 23
+major: 8, 19, 15, 20, 7
+majority: 24
+makes: 2, 21
+makeshift: 12
+making: 25, 2, 11, 12, 14
+malaysia: 0, 5, 6, 7
+malaysias: 5
+manage: 8
+march: 8, 18, 22, 23
+marco: 23
+maritime: 5, 6
+marked: 18
+markets: 25
+marking: 18
+marriage: 3
+mass: 13, 6
+materials: 23
+matter: 12
+mcbride: 18
+meaning: 17
+means: 13, 15
+meanwhile: 18
+measure: 12
+measures: 13, 6
+media: 12
+medica: 20
+meeting: 18, 23
+member: 8, 9, 24, 7
+members: 2, 7, 14, 20, 21, 23, 25
+men: 16, 4, 6
+menendez: 23
+methods: 12
+miami: 20, 21
+might: 13
+migrant: 0, 6, 9, 10, 17, 18
+migrants: 16, 11, 5, 6, 15
+migrating: 5
+migration: 18, 11, 5, 6, 7
+migrs: 14
+miguel: 25
+military: 2, 6, 13, 14, 16, 18
+militia: 13
+militias: 13
+million: 0, 17, 11, 14, 15
+mine: 14
+minimal: 2
+mining: 14
+ministers: 7
+ministry: 16, 12
+minority: 0, 8, 2
+minors: 15
+misgivings: 19
+misrepresented: 17
+misrepresents: 8
+missile: 19
+missiles: 19
+mission: 8, 5
+missions: 6
+mistrust: 19, 7
+mix: 7
+mobilization: 13
+modest: 6
+money: 23
+monitoring: 14
+monitors: 2, 13
+month: 11, 14, 6
+months: 18, 13, 22, 15
+morning: 22
+motivated: 12
+movement: 11, 3, 12
+moving: 6
+ms: 25, 18
+musl: 17
+muslim: 0, 1, 2, 3, 8
+muslims: 0, 2, 4
+myanmar: 0, 1, 2, 3, 4, 5, 6, 7, 8
+n: 17, 14
+named: 22
+nation: 3
+national: 2, 7, 11, 12, 13, 14, 17, 20, 21
+nationalism: 19
+nationalists: 4, 7
+nationalized: 19
+nationals: 15
+nations: 11, 3
+naval: 19
+nd: 24, 5
+nearby: 5
+nearly: 17, 19, 22, 25
+necessitated: 12
+neighboring: 11, 15
+netherlands: 15
+networks: 12, 6
+never: 12
+nevertheless: 7
+nevsu: 14
+nevsun: 14
+newest: 11
+newly: 2
+news: 24
+ng: 5
+ni: 8
+nigeria: 15
+nine: 7
+nineteenth: 0
+nj: 23
+nld: 7
+nnifer: 26
+non: 2, 20, 18
+noninterference: 7
+nor: 12
+normal: 8
+normalization: 24, 25, 18
+normalizing: 24
+not: 2, 5, 8, 12, 16, 17, 19, 20, 22, 23
+note: 18
+nothing: 15
+november: 7
+nt: 19, 14
+ntion: 15
+ntracted: 14
+nuclear: 19
+numbers: 7
+nvest: 18
+o: 19, 25, 2, 11
+obama: 17, 18, 20, 21, 22, 23, 26
+obamas: 18, 26, 23
+observers: 26
+obstacles: 20
+obtain: 25
+obtaining: 23
+occupied: 12
+october: 17, 19
+offered: 6, 23
+offers: 7
+office: 25, 20
+officers: 20
+officials: 22
+oft: 16
+often: 17, 12, 13, 6, 15
+olitical: 22
 once: 1
-oneparty: 2
-ongoing: 2
-online: 1, 2, 3
-open: 3
-openness: 3
-operates: 2
-operations: 3
-opinion: 3
-opportunities: 1, 2
-opposed: 2
-opposition: 1, 3
-options: 1
-order: 2
-organization: 1, 3
-organizations: 1, 2
-organize: 1
-organs: 2
-origin: 1
-origins: 1
-others: 1, 2, 3
-outflow: 2
-outside: 2, 3
-overseas: 1, 2
-overthrow: 3
-overthrowing: 3
-overwhelming: 3
-ownership: 3
-panama: 3
-parliamentarians: 1
-participated: 3
-participation: 3
-particular: 2
-parties: 3
-partner: 3
-parts: 3
-party: 2
-partyaffiliated: 2
-partys: 1, 2
-partywon: 1
-pay: 1, 2
-pdf: 3
-peace: 1, 2
-peaked: 1
-peninsula: 2
-peoples: 2
-percent: 2, 3
-perilous: 1
-period: 2
-permitted: 1, 3
-persecution: 1, 2
-personal: 3
-pew: 3
-pfdj: 2
-pfdjowned: 2
-pharmaceuticals: 3
-photo: 1
-placing: 1
-planning: 1
-plans: 3
-players: 1
-pledged: 3
-plight: 1, 2
-police: 2
-policies: 1, 2
-policy: 2, 3
-policymakers: 3
-political: 1, 2, 3
-politically: 1, 2, 3
-politics: 3
-poll: 3
-polls: 3
-pope: 3
-popular: 2
-population: 1, 3
-position: 2
-positions: 2
-possible: 2
-postabc: 3
-potential: 3
-poverty: 1
-power: 1, 3
-powerful: 2
-powers: 1
-practice: 1, 2
-practices: 2
-praised: 3
-predecessor: 3
-predominantly: 1, 2
-prefer: 1
-president: 2, 3
-presidential: 3
-presidents: 3
-pressed: 3
-pressure: 1, 2
-presumed: 2
-prevent: 1
-previous: 2
-prey: 2
-primarily: 1
-principles: 2
-prioritize: 2
-prioritizes: 2
-priority: 2
-priscilla: 1
-prison: 3
-prisoner: 3
-prisoners: 3
-private: 3
-privileged: 2
-problem: 1
-process: 2, 3
-producers: 2
-products: 3
-program: 2
-progress: 1, 2
-project: 1
-promised: 2
-prompted: 1, 3
-prongs: 3
-proof: 1
-properties: 3
-proposed: 1
-prosecution: 2
-prospects: 2, 3
-protect: 1
-protection: 1, 2
-protesting: 1
-protocol: 1
-protracted: 2
-provide: 1, 2, 3
-provided: 1, 2, 3
+ongoing: 13
+onl: 24
+online: 0, 10, 18
+ons: 21
+open: 26, 20, 23
+openness: 25
+operates: 14
+operations: 19
+opinion: 26, 23
+opportunities: 17, 3, 15
+opposed: 13
+opposing: 24
+opposition: 26, 7
+options: 7
+opulation: 21
+order: 15
+organization: 25, 4, 5
+organizations: 15
+organize: 8
+origins: 0
+others: 0, 7, 8, 15, 18, 22
+outflow: 18, 3, 14
+outside: 17, 25
+overse: 8
+overseas: 14
+oversimplifies: 8
+overthrow: 19
+overthrowing: 19
+overwhelming: 24
+owned: 19, 14
+ownership: 25
+p: 0, 1, 11, 21, 22
+panam: 25
+panama: 18
+parliamentarians: 3
+parliamentary: 2
+participated: 25
+particular: 15
+particularly: 24
+parties: 23
+partner: 26
+parts: 25
+party: 11, 14, 7
+partys: 18
+pay: 5
+pdf: 1, 2, 3, 4, 5, 6, 16, 20, 25
+peace: 8, 5, 7
+peaked: 6
+peninsula: 16
+peoples: 11
+percent: 3, 5, 14, 15, 17, 21, 24, 25
+perilous: 5
+period: 15
+permission: 25
+permitted: 2, 20
+persecution: 8, 17
+person: 7
+personal: 25
+persons: 6
+pew: 24
+pfdj: 14
+pharmaceuticals: 26
+photo: 4
+pigs: 19
+pillar: 21
+ping: 6
+placing: 8
+planning: 3
+plans: 19
+players: 8
+pledged: 19
+plight: 0, 8, 18, 7
+poli: 24
+police: 16, 13
+policies: 0, 17, 3
+policy: 17, 18, 19, 20, 21
+policymakers: 21
+politi: 25
+political: 1, 7, 8, 11, 12, 19, 21, 23, 25, 26
+politically: 2, 12, 21
+politics: 21
+poll: 24
+polls: 24
+pong: 6
+pope: 22
+popular: 11
+population: 25
+pos: 13
+positions: 11
+possible: 14
+post: 0, 24, 10, 18
+potential: 23
+poverty: 3, 5
+power: 19, 6
+powerful: 13
+powers: 8, 25
+practice: 13
+praised: 25
+predecessor: 20
+predicts: 26
+predominantly: 16, 4
+prefer: 5
+preside: 19
+president: 2, 11, 18, 20, 22, 23
+presidential: 21
+presidents: 18
+pressed: 23
+pressure: 8, 2, 13, 6
+presumed: 17
+prevent: 8
+prey: 15
+prima: 17
+primarily: 0, 8
+principle: 7
+principles: 11
+print: 0, 10, 18
+prioritize: 18
+prioritized: 6
+prioritizes: 17
+priscilla: 8, 5
+prison: 20
+prisoner: 18, 21, 22
+prisoners: 25, 22
+prisons: 12
+private: 25, 23
+privileged: 11
+problem: 7
+process: 25, 18
+producers: 11, 14
+products: 26, 20
+profile: 25
+program: 17, 13, 14
+progress: 8, 12
+project: 8, 1
+promised: 12
+prompted: 0, 18
+prongs: 19, 20
+proof: 2
+properties: 19
+proposed: 7
+prosecution: 12
+prospects: 25
+protect: 8
+protection: 8, 17, 11, 6, 7
+protesting: 2
+protocol: 7
+protracted: 15
+provide: 20, 14, 7
+provided: 21, 6
 provides: 1
-provisions: 1
-public: 3
-punitive: 1
-purposes: 3
-pursuing: 3
-push: 1
-pushes: 2
-putting: 2
-quarantine: 3
-quarter: 2
-question: 2
-quo: 1
-raise: 2
-raised: 2
-rakhine: 1
-rakhines: 1
-ral: 3
-ranked: 1
-ranking: 1
-rape: 2
-rapidly: 3
-raping: 1
-rapprochement: 3
-rare: 1
-rather: 2
-ratified: 2
-ratify: 1
-rationale: 2
-ravaged: 2
-reach: 1
-realistic: 1
-realize: 3
-reason: 2
-rebels: 3
-receive: 2
-recent: 2, 3
-recently: 1, 2
-recipients: 2
-recognition: 1
-recognize: 2
-recognized: 1, 3
-recommendations: 1
-recommended: 2
-reconciliation: 1, 3
-reduce: 1, 2
-reestablishing: 3
-referendum: 1, 2
-reform: 3
-reforms: 2, 3
-refuge: 1
-refugee: 1, 2
-refugees: 1, 2
-refused: 2
-refuses: 1
-refuted: 1
-regime: 1, 2, 3
-regimes: 2
-region: 1
-regional: 1
-regionally: 1
-regions: 1
-register: 1
-registered: 1
-regulations: 3
-reiterated: 3
+provisions: 2
+public: 26, 23
+publications: 9
+punitive: 6
+purposes: 20, 23
+pursuing: 19
+push: 6, 7
+quarantine: 19
+quarter: 15
+question: 17
+quo: 5
+r: 25, 23
+raise: 17
+raised: 13, 14
+rakhine: 0, 1, 4, 7
+ral: 25, 18, 20, 21, 22
+ran: 6
+rancis: 22
+ranking: 6
+ranks: 14
+rape: 16
+raping: 4
+rapprochement: 21
+rare: 7
+rather: 16, 12
+ratified: 12
+ratify: 7
+rationale: 13
+reach: 0
+real: 25
+realistic: 8
+realize: 23
+reason: 16
+reauthorize: 26
+rebels: 21
+rec: 15
+recent: 11, 21
+recently: 2, 13
+recipients: 15
+recognition: 2
+recognize: 16, 12
+recognized: 2, 19
+recommendations: 7
+recommended: 12
+reconciliation: 21, 7
+reduce: 18, 7
+reestablishing: 24
+referendum: 2, 11
+refor: 18
+reform: 24, 25
+reforms: 25, 23
+refuge: 5, 6
+refugee: 17, 18, 15, 4, 7
+refugees: 0, 5, 6, 7, 11, 14, 15, 16
+refused: 11
+refuses: 2
+regime: 19, 20, 13
+regimes: 12
+region: 0
+regional: 25, 4, 6
+regionally: 7
+regions: 9
+register: 2
+registered: 5
+regulations: 23
+reiterated: 23
 reject: 1
-rejects: 2
-related: 2
-relations: 3
-relationship: 3
-relatively: 1
-relaxing: 3
-release: 3
-released: 3
-releases: 3
-relevant: 2
-reliable: 2
-religious: 1, 2, 3
-religiously: 1
-relinquish: 2
-reluctant: 1
-remade: 2
-remain: 2
-remained: 2
-remains: 1, 2
-remittances: 2, 3
-remove: 3
-removed: 3
+rejects: 12
+related: 18
+relation: 18
+relations: 8, 9, 18, 21, 24, 25
+relationship: 19
+relatively: 6
+relaxing: 25
+release: 25, 18, 20, 22
+released: 21, 22
+releases: 22
+reliable: 15
+religious: 17, 3, 20
+religiously: 0
+relinquish: 11
+reluctant: 7
+remade: 11
+remain: 12, 13, 14
+remained: 12
+remains: 12, 6
+remittances: 20, 22, 14
+remove: 19
+removed: 21
 renamed: 1
-reopened: 3
-repeal: 3
-report: 1, 2
-reported: 2, 3
-reportedly: 2
-reports: 2
-represent: 1
-representatives: 1
-representing: 2
-repress: 3
-repression: 1, 2
-republicans: 3
-requesting: 2
-requirement: 2
-requires: 3
-rescind: 2
-rescinded: 3
-research: 3
-researcher: 2
-researchers: 1
-reserves: 2
-reside: 2
+renwick: 18
+reopened: 22
+repeal: 26, 23
+report: 6, 7, 8, 12, 14, 17, 21
+reported: 25, 13, 15
+reportedly: 13, 14
+reports: 16, 12, 14, 15
+represent: 2
+representatives: 7
+representing: 15
+repress: 21
+repression: 5
+republican: 21
+republicans: 21
+requesting: 12
+requirement: 13
+requires: 19
+rescind: 13
+rescinded: 19
+rescue: 6
+research: 24
+researcher: 14
+researchers: 2
+reserves: 14
+reside: 16, 11
 resided: 1
-residents: 1
-residual: 2
-resolution: 3
-resolve: 1
-resolving: 1
-resources: 2
-responded: 3
-respondents: 3
-response: 1, 2
-responses: 1
-responsible: 1
-restoration: 3
-restore: 3
-restoring: 3
-restrictions: 1, 2, 3
-result: 1, 3
-resuming: 3
-retaliation: 3
-returned: 2
-reuters: 1, 3
-revoking: 1
-revolutionaries: 3
-rfl: 3
-rights: 1, 2, 3
-rings: 1
-rise: 2, 3
-risk: 1
-risky: 2, 3
-robert: 3
-rohang: 1
-rohingya: 1
-rohingyas: 1
+residents: 2
+residual: 12
+resolution: 24
+resolve: 8
+resolving: 7
+resources: 9, 14
+responded: 19
+respondents: 24
+response: 8, 11, 13, 6, 7
+responsible: 6
+restoration: 24
+restore: 18, 21
+restoring: 21, 22
+restrictions: 3, 6, 12, 19, 20, 21, 22, 23, 25
+result: 25
+resuming: 24
+retaliation: 19
+returned: 17
+reuters: 18, 6
+reversed: 20
+revoking: 2
+revolutionaries: 19
+rights: 2, 4, 7, 8, 11, 12, 13, 14, 16, 17, 21, 23, 25, 26
+rings: 6
+rise: 18, 15
+risk: 5
+risky: 21, 15
+robert: 23
+rohingya: 0, 1, 2, 3, 4, 5, 6, 7, 8
+rolando: 21
 root: 1
-roots: 3
-route: 2
-routine: 2
-rozen: 2
-rubio: 3
-rule: 1
-rulers: 2
-ruling: 2
-run: 2
-rwanda: 2
-s: 2
-safely: 1
-sahara: 2
-san: 1
-sanctioned: 2
-sanctions: 2, 3
-satellite: 3
-saying: 2, 3
-says: 1, 2, 3
-scale: 2
-scholar: 3
-school: 3
-schuetze: 1
-sea: 1
-seaa: 1
-searchandrescue: 1
-second: 1
-secondnewest: 2
-secret: 3
-secretary: 1
-secretarygeneral: 1, 3
-secretly: 3
-sector: 3
-sects: 2
-secure: 3
-security: 2
-seekers: 1, 2
-seeking: 2, 3
-seemingly: 2
-seen: 1, 2
-segen: 2
-sein: 1
-seized: 3
-selfemployed: 3
-selfidentify: 1
-senators: 3
-send: 3
-sending: 2
-senior: 1, 3
-sense: 2
-sentenced: 3
-september: 1, 2, 3
-series: 2
-served: 2
-serves: 1
-service: 2, 3
-services: 2
-setting: 3
-settled: 2
-seven: 2
-several: 2, 3
-severed: 3
-sexual: 2
-share: 2
-shared: 1
-shelter: 1
-shelters: 1
-shift: 3
-shipment: 3
-ships: 3
-shook: 3
-shoottokill: 2
-shores: 2
-short: 3
-shortage: 2
-shortly: 3
-sic: 2
-siege: 2
-sigal: 2
-signaled: 3
-signaling: 3
-significant: 2
-silent: 1
-similarly: 1
-sinai: 2
-since: 1, 2, 3
-sites: 3
-sitting: 3
-sittwe: 1
-six: 2
-skeptical: 1
-slashing: 3
-slaverylike: 2
-slow: 1
-slowed: 1
-smaller: 2
-smugglers: 1, 2
-smuggling: 1
-social: 1, 2
-society: 3
-soe: 1
-softer: 2
-sole: 1
-solution: 1
-somalia: 2
-someone: 2
-soon: 3
-sought: 1
-source: 1
-southeast: 1
-southern: 3
-soviet: 3
-specific: 3
-speech: 2
-spend: 3
-spending: 2
-spoken: 3
-spokesman: 1
-sponsor: 3
-spring: 1
-squalid: 1
-stance: 2
-standoff: 3
-state: 1, 2, 3
-statecontrolled: 3
-stated: 3
-states: 1, 2, 3
-statesanctioned: 2
-status: 1, 2, 3
-statutory: 2
-stay: 1
-staying: 1
-stays: 2
-stems: 2
-step: 2
-steps: 1
-still: 1
-stilljailed: 3
-stranded: 1
-stream: 2
-street: 2
-strengthened: 3
-strict: 1
-strife: 1
-stringent: 3
-stripped: 1
-strong: 3
-strongly: 2
-subcontractor: 3
-subject: 1, 2
-subscribing: 2
-subsistence: 2
-successive: 1, 3
-sudan: 2
-sufiinflected: 1
-sugar: 3
-suggest: 3
-summit: 3
-sunni: 1
-supplies: 3
-support: 1, 2, 3
-supported: 3
-supportive: 1
+roots: 19
+route: 16, 15
+rozen: 16
+rubio: 23
+rule: 1, 12
+ruler: 12
+rules: 23
+ruling: 18, 11
+run: 12
+rwanda: 17
+s: 12, 15, 16, 18, 19, 24
+sa: 20
+safely: 5
+sahara: 15
+san: 7
+sanctioned: 17, 11, 13
+sanctions: 18, 13, 23
+sarraff: 21
+satellite: 20
+saying: 17, 25, 23
+says: 2, 8, 12, 16, 17, 26
+scale: 11
+scholar: 26
+school: 26
+schuetze: 5
+sea: 0, 3, 5, 6, 15
+search: 6
+second: 24, 23, 5, 15
+secret: 19, 22
+secretary: 25, 6, 7
+secretly: 19
+sector: 25
+secure: 20
+securit: 14
+security: 13
+seeker: 15
+seekers: 15, 17, 3, 13, 7
+seeking: 16, 17, 11, 20
+seemingly: 15
+seen: 2
+segen: 14
+sein: 2
+seized: 19
+senators: 23
+send: 20
+sending: 14
+senior: 8, 18, 5
+sense: 18, 13
+sentenced: 20
+sentiment: 2
+september: 0, 10, 18
+series: 18
+serve: 13
+served: 17
+serves: 6
+service: 13, 14, 16, 17, 20, 23
+services: 14, 15
+setting: 19
+settled: 15
+seven: 15
+several: 17, 23
+severed: 18, 19
+shabab: 13
+share: 0, 10, 11, 18
+shared: 7
+shelter: 4, 6
+shelters: 4
+shift: 24, 26
+shipment: 23
+ships: 19
+shook: 18
+shores: 11
+short: 26
+shortage: 15
+shortly: 24
+siege: 18
+sigal: 16
+signaled: 25
+signaling: 24
+significant: 11
+silent: 7
+similarly: 2
+sin: 1
+sinai: 16
+since: 0, 6, 13, 18, 21, 22, 25, 26
+sites: 19
+sitting: 18, 22
+sittwe: 4
+situation: 13
+skeptical: 7
+slashing: 19
+slavery: 13
+slowed: 5
+smaller: 13
+smugglers: 5
+smuggling: 6
+social: 12
+society: 25
+soe: 0, 4
+softer: 12
+sole: 8
+solution: 8
+somalia: 13
+someone: 17
+soon: 19, 23
+sought: 5, 6
+source: 6
+southeast: 8, 3, 7
+southern: 21
+sovie: 19
+soviet: 19, 20
+spark: 6
+speaks: 5
+specific: 23
+speech: 12
+spend: 23
+spending: 18
+spoken: 25
+spokesman: 6
+sponsor: 24, 20
+spring: 6
+squalid: 4
+ssigning: 5
+stance: 13, 14
+standing: 11
+standoff: 19
+state: 0, 4, 6, 7, 11, 12, 13, 14, 17, 18, 19, 20, 21, 24, 25
+stated: 21
+stateless: 2
+states: 5, 7, 8, 13, 17, 19, 21, 22, 23, 24, 25, 26
+status: 17, 2, 20, 5
+statutory: 13
+stay: 2
+stayi: 5
+stays: 15
+stems: 13
+step: 18
+steps: 2
+still: 8, 4, 21
+stopped: 13
+stranded: 6
+stream: 11
+street: 11
+strengthened: 20
+strict: 2
+strife: 7
+stringent: 19, 20
+stripped: 2
+strong: 26, 21
+struggle: 11
+subcontractor: 18, 20
+subject: 12, 6
+subsistence: 13
+successive: 1, 18
+sudan: 11, 15
+sugar: 19
+suggest: 21
+summit: 25, 18
+sunni: 0
+supplies: 20
+support: 24, 21, 13, 7
+supported: 24
+supporting: 13
 surfaced: 1
-surge: 1
-survival: 2
-survive: 1
-suspected: 2
-suu: 1
-swap: 3
-sweden: 2
-sweig: 3
-swelled: 3
-swing: 3
-switzerland: 2
-system: 2, 3
-systematic: 1
-systemic: 1
-taken: 2
-takes: 2
-taking: 1, 3
-talks: 3
-tax: 2
-taxes: 3
-telecommunications: 3
-temper: 2
-temporary: 1
-tenable: 1
-tens: 1, 2
-tension: 1
-tensions: 2
-term: 3
-territories: 2
-territory: 1, 2
-terrorismwas: 3
-terrorist: 3
-thai: 1
-thailand: 1
-thailandall: 1
-thailandbased: 1
-thein: 1
-themselves: 2
-thenpresident: 1
-theresecond: 2
-things: 3
-third: 1, 2
-thirty: 1
-thirtythree: 2
-thirtytwo: 1
-those: 1, 2, 3
-though: 1, 2
-thousand: 1, 2
-thousands: 1, 2
-threat: 2
-threatened: 1
-threats: 2
-threshold: 1
-tier: 1
-ties: 1, 2, 3
-times: 1, 2
-tomorrow: 3
-took: 2, 3
-top: 2
-topple: 3
-torture: 2
-total: 2
-touted: 1
-toward: 2, 3
-trace: 1
-trade: 3
-trading: 3
-traditionally: 3
-traffickers: 1
-traffickersat: 2
-trafficking: 1
-tragedy: 1
-training: 3
-transactions: 3
-transit: 1
-transitions: 3
-transport: 1
-travel: 2, 3
-traveled: 3
-travelers: 3
-treasonous: 2
-trends: 3
-tricky: 2
-try: 1
-trying: 2
-tumultuous: 2, 3
-tunreuters: 1
-turkey: 3
-turned: 1
-twentieth: 1
-twenty: 3
-twentysecond: 3
-twothe: 3
-ultimately: 3
-un: 1, 2, 3
-unaccompanied: 2
-unbacked: 1
-undermine: 2
-undermining: 2
-undertaking: 2, 3
-unified: 1
-union: 2, 3
-unions: 3
-united: 1, 2, 3
-university: 3
-unlikely: 3
-unpopular: 3
-unprecedented: 2
-unregistered: 1
-unsafe: 2
-unscrupulous: 2
-until: 1, 3
-updated: 1, 2, 3
-upgraded: 1
-uptick: 1
-usaid: 3
-uscuba: 3
-using: 2
-usowned: 3
-value: 1
-values: 1
-variation: 1
-vast: 1
-vessels: 1
-vetowielding: 2
-vietnam: 1
-view: 1
-violations: 2
-violence: 1, 2
-visit: 1, 3
-visited: 3
-visiting: 3
-vote: 1
-votewhite: 1
-voting: 3
-vowed: 1
-voyage: 1
-w: 3
-wage: 2
-walks: 1
-wall: 2
-wanted: 3
-war: 1, 2, 3
-wartorn: 2
-washington: 1, 3
-watch: 1, 2, 3
-watchdog: 2
-ways: 1
-weak: 1
-weapons: 3
-weeks: 3
-western: 1, 2
-whether: 2
-while: 1, 2
-white: 1, 3
-whose: 1
-widely: 1
-widespread: 1, 2
-without: 2, 3
-woman: 1
-women: 1
-workable: 1
-workers: 3
-workforce: 3
-world: 1
-worlds: 2
-worsened: 1
-worth: 2
-writereditor: 1, 2, 3
-writes: 1, 3
-wrote: 1, 2
-years: 1, 2, 3
-yet: 1, 2, 3
-yielded: 2
-york: 1
-young: 2
-zammit: 2
-zeya: 1
+surge: 0
+survival: 11, 14
+survive: 5
+suspected: 12
+suu: 7
+swap: 18, 21
+sweden: 15
+sweig: 26
+swelled: 25
+swing: 21
+switzerland: 15
+system: 25, 11, 23
+systematic: 2
+systemic: 3
+t: 2, 6, 11, 19, 23, 25, 26
+taken: 14
+takes: 15
+taking: 0, 25, 6
+talks: 21, 22
+tax: 14
+taxes: 19
+telecommunications: 26, 20
+temper: 13
+temporary: 2, 6
+tenable: 8, 5
+tended: 7
+tens: 12, 11, 4, 5
+tension: 3, 7
+tensions: 12
+term: 1, 26, 20
+territories: 14
+territory: 0, 12
+terrorism: 24, 20
+terrorist: 21
+th: 7
+thai: 6
+thailand: 0, 1, 6, 7
+thein: 2
+themselves: 14
+things: 23
+third: 17
+thirty: 16, 2, 5
+those: 5, 11, 12, 15, 17, 19
+though: 1, 5, 17
+thousa: 5
+thousand: 5, 6, 11, 14, 16, 17
+thousands: 0, 4, 5, 6, 11, 12
+threat: 11, 14
+threatened: 2
+threats: 11, 12
+threshold: 3
+throu: 14
+tier: 6
+ties: 1, 13, 18, 19, 21, 22, 24, 25, 26
+times: 8, 16, 3, 17
+tion: 20
+tomorrow: 23
+took: 26, 12, 5
+top: 11, 14, 15
+topics: 9
+topple: 19
+torn: 15
+torture: 16, 12
+total: 17
+totally: 12
+touted: 2
+toward: 14, 15, 17, 18, 19, 20, 21, 24
+trace: 0
+trade: 24, 26, 19, 20, 23
+trading: 26
+traditionally: 21
+traffickers: 16, 6
+trafficking: 6
+tragedy: 8, 5
+training: 21
+transactions: 23
+transit: 6
+transitions: 20
+travel: 13, 14, 19, 20, 21, 22, 23, 24, 25, 26
+traveled: 16, 20
+travelers: 23
+trea: 12
+treasonous: 12
+trends: 21
+trillion: 20
+tripled: 25
+trujillo: 21
+try: 0
+trying: 15
+tumultuous: 19
+tunreuters: 0, 4
+turkey: 19
+turned: 5
+tweet: 0, 10, 18
+twentieth: 0
+twenty: 24, 22
+uenced: 21
+ultimately: 26
+un: 2, 5, 6, 7, 11, 12, 13, 14, 15, 17, 24
+unable: 5
+unaccompanied: 15
+undermine: 12
+undermining: 13
+undertaking: 25, 11
+unfounded: 12
+unifie: 7
+union: 19, 11
+unions: 20
+united: 5, 8, 13, 17, 19, 21, 22, 23, 24, 26
+university: 24
+unlikely: 26, 19, 23
+unpopular: 24
+unprecedented: 11
+unregistered: 5
+unsafe: 17
+unscrupulous: 15
+unseaworthy: 15
+until: 8, 2, 20
+unwitting: 17
+updated: 0, 10, 18
+upgraded: 6
+uptick: 6
+urged: 8
+usaid: 20
+value: 2
+values: 7
+variation: 0
+vessels: 6, 15
+veto: 13
+view: 5
+vio: 4
+violations: 11
+violence: 2, 4
+visi: 23
+visit: 18, 26, 22, 23
+visited: 22
+visiting: 23
+volu: 5
+volumes: 5
+vote: 2, 21
+voting: 21
+vowed: 7
+voyage: 5
+w: 20, 2, 4
+wage: 13
+walks: 4
+wall: 11
+wanted: 20
+war: 18, 19, 12, 13, 15
+washington: 8, 24, 19, 20
+watch: 4, 6, 8, 14, 16, 17, 21
+watchdog: 13
+ways: 7
+weak: 3
+weap: 21
+weeks: 26
+welcomed: 25
+western: 11
+whether: 17
+while: 8, 11, 7
+white: 2, 22
+whose: 2, 7
+wi: 20
+wide: 2
+widely: 2
+widespread: 3, 12
+wielding: 13
+without: 12, 23
+woman: 4
+women: 6
+won: 21, 7
+workable: 8
+workers: 25
+workforce: 25
+world: 3
+worlds: 11, 14
+worsened: 6
+worth: 17
+writereditor: 0, 10, 18
+writes: 8, 21
+wrote: 14
+y: 24, 6
+years: 2, 11, 18, 20, 21, 22, 23
+yet: 7, 15, 17, 22, 23, 25
+yielded: 14
+york: 8
+young: 16, 11
+zachary: 10
+zammit: 10
+zeya: 0, 4
