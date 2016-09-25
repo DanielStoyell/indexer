@@ -1,3 +1,4 @@
+
 # TODO:
 # Detect doc type, convert to pdf using comtype if docx for reading
 # Use pypdf2 to grab words by page
@@ -10,6 +11,8 @@ import PyPDF2
 import os
 import csv
 import string
+import nltk
+
 
 def index():
   print "Parsing input..."
@@ -74,18 +77,20 @@ def index():
 
     page = reader.getPage(pageNum)
     text = page.extractText()
-    words = text.split()
+    text = text.encode('ascii','ignore')
+    parsed_words = nltk.pos_tag(nltk.word_tokenize(text))
 
-    for word in words:
-      word = word.strip()
-      word = word.lower()
-      word = word.encode('ascii', 'ignore')
-      word = word.translate(string.maketrans("",""), string.punctuation)
-      if not word in excluded_words and word != "" and not is_number(word):
-        if word in index:
-          index[word].add(pageNum+1)
-        else:
-          index[word] = set([pageNum+1])
+    for parsed_word in parsed_words:
+      if len(parsed_word) == 2:
+        if parsed_word[1] == "NN":
+          word = parsed_word[0].strip()
+          word = word.lower()
+          word = word.translate(string.maketrans("",""), string.punctuation)
+          if not word in excluded_words and word != "" and not is_number(word):
+            if word in index:
+              index[word].add(pageNum+1)
+            else:
+              index[word] = set([pageNum+1])
 
   sys.stdout.write("\n")
   doc.close()
@@ -93,7 +98,7 @@ def index():
   print "Writing to output file..."
   sortedKeys = index.keys()
   sortedKeys.sort()
-  indexName = filename + "_index.txt"
+  indexName = "nlp_" + filename + "_index.txt"
   with open(indexName, 'wb') as iFile:
     for key in sortedKeys:
       string_rep = key + ": "
