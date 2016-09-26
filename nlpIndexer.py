@@ -79,18 +79,17 @@ def index():
     text = page.extractText()
     text = text.encode('ascii','ignore')
     parsed_words = nltk.pos_tag(nltk.word_tokenize(text))
-
+    
     for parsed_word in parsed_words:
-      if len(parsed_word) == 2:
-        if parsed_word[1] == "NN":
-          word = parsed_word[0].strip()
-          word = word.lower()
-          word = word.translate(string.maketrans("",""), string.punctuation)
-          if not word in excluded_words and word != "" and not is_number(word):
-            if word in index:
-              index[word].add(pageNum+1)
-            else:
-              index[word] = set([pageNum+1])
+      if "NN" in parsed_word[1]:
+        word = parsed_word[0].strip()
+        word = word.lower()
+        word = word.translate(string.maketrans("",""), string.punctuation)
+        if not word in excluded_words and word != "" and not is_number(word):
+          if word in index:
+            index[word].add(pageNum+1)
+          else:
+            index[word] = set([pageNum+1])
 
   sys.stdout.write("\n")
   doc.close()
